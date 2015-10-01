@@ -2,10 +2,10 @@
 
 one:
   user_name: MyString
-  number: 1
+  seats: 1
   show_id: 
 
 two:
   user_name: MyString
-  number: 1
+  seats: 1
   show_id: 
